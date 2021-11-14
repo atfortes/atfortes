@@ -1,16 +1,17 @@
 ### Hi there 👋
 
+- 🚩 Currently enrolled in the Advanced Computing Program @ Tsinghua University as an exchange student.
+- 📚 Expecting to graduate  in 2023 from the Master's Degree in Computer Science and Engineering @ Instituto Superior Técnico.
+- 💻 My main areas of interest are Machine Learning and Distributed Systems.
+- 🙋‍♂️ I am always open to collaborate on projects and innovative/disruptive ideas.
+
+Connect with me here:
+
+[![Linkedin Badge](https://img.shields.io/badge/-armandotelesfortes-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armandotelesfortes/)](https://www.linkedin.com/in/armandotelesfortes/)
+[![Gmail Badge](https://img.shields.io/badge/-atfortes@protonmail.com-505264?style=social-square&logo=ProtonMail&logoColor=white&link=mailto:atfortes@protonmail.com)](mailto:atfortes@protonmail.com)
+
 <!--
-**atfortes/atfortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Github Stats](https://github-readme-stats.vercel.app/api?username=atfortes&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atfortes&hide=TeX&layout=compact&count_private=true)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=atfortes.atfortes)
 -->
