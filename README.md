@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - 🚩 Currently enrolled in the Advanced Computing Program @ Tsinghua University as an exchange student.
-- 📚 Expecting to graduate  in 2023 from the Master's Degree in Computer Science and Engineering @ Instituto Superior Técnico.
 - 💻 My main areas of interest are Machine Learning and Distributed Systems.
 - 🙋‍♂️ I am always open to collaborate on projects and innovative/disruptive ideas.
+
+<!-- - 📚 Expecting to graduate  in 2023 from the Master's Degree in Computer Science and Engineering @ Instituto Superior Técnico.-->
 
 Connect with me here:
 
