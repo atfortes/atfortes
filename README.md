@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🚩 Currently enrolled in the Advanced Computing Masters Program @ Tsinghua University as an exchange student.
+- 🚩 Currently enrolled in the Advanced Computing Master's Program @ Tsinghua University as an exchange student.
 - 💻 My main areas of interest are Machine Learning and Distributed Systems.
 - 🙋‍♂️ I am always open to collaborate on projects and innovative/disruptive ideas.
 
