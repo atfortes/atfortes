@@ -7,7 +7,7 @@
 Connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-armandotelesfortes-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armandotelesfortes/)](https://www.linkedin.com/in/armandotelesfortes/)
-[![Gmail Badge](https://img.shields.io/badge/-atfortes@protonmail.com-505264?style=social-square&logo=ProtonMail&logoColor=white&link=mailto:atfortes@protonmail.com)](mailto:atfortes@protonmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ferreiracardos10@mails.tsinghua.edu.cn-682278?style=social-square&logo=Gmail&logoColor=white&link=mailto:ferreiracardos10@mails.tsinghua.edu.cn)](mailto:ferreiracardos10@mails.tsinghua.edu.cn)
 
 <!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=atfortes&count_private=true&show_icons=true&include_all_commits=true)
