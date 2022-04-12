@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🚩 Currently studying @ Department of Computer Science and Technology, Tsinghua University.
-- 💻 Interested in Machine Learning and Distributed Systems.
-- 🙋‍♂️ Always open to collaborate on innovative projects and disruptive ideas.
+- 💻 Interested in Machine Learning, Optimization, Computer Vision and Natural Language Processing.
 
 Connect with me here:
 
