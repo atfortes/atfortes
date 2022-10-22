@@ -1,15 +1,16 @@
 ### Hi there 👋
 
-- 🚩 Currently studying @ Department of Computer Science and Technology, Tsinghua University.
-- 💻 Interested in Machine Learning (ML) and Natural Language Processing (NLP) in general, including representation learning, reinforcement learning, knowledge graph, and graph neural networks.
+I am a first-year Master's student in the Department of Computer Science and Technology at Tsinghua University.
 
-Connect with me here:
+- 🔭 Interested in Machine Learning (ML) and Natural Language Processing (NLP) in general, including reinforcement learning, representation learning, knowledge graph, and graph neural networks
+- 💬 Feel free to contact me for any form of collaboration, discussing interesting ideas or just chatting
 
-[![Linkedin Badge](https://img.shields.io/badge/-armandotelesfortes-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armandotelesfortes/)](https://www.linkedin.com/in/armandotelesfortes/)
-[![Gmail Badge](https://img.shields.io/badge/-fmq22@mails.tsinghua.edu.cn-682278?style=social-square&logo=Gmail&logoColor=white&link=mailto:fmq22@mails.tsinghua.edu.cn)](mailto:fmq22@mails.tsinghua.edu.cn)
+[![Gmail Badge](https://img.shields.io/badge/-fmq22@mails.tsinghua.edu.cn-911581?style=social-square&link=mailto:fmq22@mails.tsinghua.edu.cn)](mailto:fmq22@mails.tsinghua.edu.cn)
+[![Linkedin Badge](https://img.shields.io/badge/-armandotelesfortes-0077b5?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armandotelesfortes/)](https://www.linkedin.com/in/armandotelesfortes/)
+[![Twitter Badge](https://img.shields.io/badge/-atfortes_-1da1f2?style=social-square&logo=Twitter&logoColor=white&link=https://twitter.com/atfortes_)](https://twitter.com/atfortes_)
 
 <!--
+![visitors](https://visitor-badge.glitch.me/badge?page_id=atfortes.atfortes&left_color=green&right_color=red)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=atfortes&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atfortes&hide=TeX&layout=compact&count_private=true)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=atfortes.atfortes)
 -->
