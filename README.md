@@ -7,7 +7,6 @@ I am a first-year Master's student in the Department of Computer Science and Tec
 
 [![Gmail Badge](https://img.shields.io/badge/-fmq22@mails.tsinghua.edu.cn-911581?style=social-square&link=mailto:fmq22@mails.tsinghua.edu.cn)](mailto:fmq22@mails.tsinghua.edu.cn)
 [![Linkedin Badge](https://img.shields.io/badge/-armandotelesfortes-0077b5?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armandotelesfortes/)](https://www.linkedin.com/in/armandotelesfortes/)
-[![Twitter Badge](https://img.shields.io/badge/-atfortes_-1da1f2?style=social-square&logo=Twitter&logoColor=white&link=https://twitter.com/atfortes_)](https://twitter.com/atfortes_)
 
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=atfortes.atfortes&left_color=green&right_color=red)
