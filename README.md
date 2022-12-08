@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🚩 I am a first-year Master's student in the Department of Computer Science and Technology at Tsinghua University, advised by Prof. Jun Zhu in the Tsinghua Statistical Artificial Intelligence & Learning (TSAIL) Group.
-- 🔭 My research interests are in Machine Learning (ML) and Natural Language Processing (NLP) in general, including representation learning, reinforcement learning, knowledge graph, and graph neural networks.
+- 🔭 My research interests lie in Machine Learning and Natural Language Processing in general, including reasoning, knowledge extraction, graph neural networks, representation learning, and reinforcement learning.
 - 🙋‍♂️ Feel free to contact me for any form of collaboration, discussing interesting ideas or just chatting:
 
 <p align="center">fmq22 [at] mails [dot] tsinghua [dot] edu [dot] cn</p>
