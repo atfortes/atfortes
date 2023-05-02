@@ -7,7 +7,7 @@
     - Reinforcement Learning
 - 🙋‍♂️ Feel free to contact me for any form of collaboration or discussing ideas:
 
-<p align="center">fmq22 [at] mails [dot] tsinghua [dot] edu [dot] cn</p>
+<p align="center">fmq22 [at] mails.tsinghua.edu.cn</p>
 
 <!--
 [![Gmail Badge](https://img.shields.io/badge/-fmq22@mails.tsinghua.edu.cn-911581?style=social-square&link=mailto:fmq22@mails.tsinghua.edu.cn)](mailto:fmq22@mails.tsinghua.edu.cn)
