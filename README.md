@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-- 📍 First-year Master's student at Tsinghua University, advised by Prof. Jun Zhu in the TSAIL Group
-- 🔭 Passionate about the broad domain of Machine Learning as a whole, including:
-    - Reasoning in Language and Vision-Language Models
-    - Deep Generative Models
-    - Reinforcement Learning
+- 📍 Master's student at Tsinghua University, advised by Prof. Jun Zhu in the TSAIL Group
+- 🔭 Passionate about the expansive fields of machine learning and deep learning. Recently, I've been interested in deep generative models and their rich applications for controllable multimodal generation.
 - 🙋‍♂️ Feel free to contact me for any form of collaboration or discussing ideas:
 
 <p align="center">fmq22 [at] mails.tsinghua.edu.cn</p>
