@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 📍 Master's student at Tsinghua University, advised by Prof. Jun Zhu in the TSAIL Group
-- 🔭 Passionate about the expansive fields of machine learning and deep learning. Recently, I've been interested in deep generative models and their rich applications for controllable multimodal generation.
+- 📍 M.Sc. student at Tsinghua University, advised by Prof. Jun Zhu in the TSAIL Group.
+- 🔭 Passionate about machine learning and deep learning. Recently, I've been interested in deep generative models and their applications for controllable multimodal generation.
 - 🙋‍♂️ Feel free to contact me for any form of collaboration or discussing ideas:
 
 <p align="center">fmq22 [at] mails.tsinghua.edu.cn</p>
