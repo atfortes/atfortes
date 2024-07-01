@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 📍 M.Sc. student at Tsinghua University, advised by Prof. Jun Zhu in the TSAIL Group.
 - 🔭 Passionate about machine learning and deep learning. Recently, I've been interested in deep generative models and their applications for controllable multimodal generation.
 - 🙋‍♂️ Feel free to contact me for any form of collaboration or discussing ideas:
 
-<p align="center">fmq22 [at] mails.tsinghua.edu.cn</p>
+<p align="center">armandol001 [at] e.ntu.edu.sg</p>
 
 <!--
 [![Gmail Badge](https://img.shields.io/badge/-fmq22@mails.tsinghua.edu.cn-911581?style=social-square&link=mailto:fmq22@mails.tsinghua.edu.cn)](mailto:fmq22@mails.tsinghua.edu.cn)
