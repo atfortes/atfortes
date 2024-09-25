@@ -5,4 +5,6 @@
 
 <p align="center">ARMANDOL001 [at] E.NTU.EDU.SG</p>
 
-[!["Buy Me A Coffee"](bmc_button.png)](https://www.buymeacoffee.com/atfortes)
+<div align="center">
+  <a href="https://buymeacoffee.com/atfortes"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
+</div>
