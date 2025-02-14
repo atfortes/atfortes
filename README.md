@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 My research interests lie within the expansive fields of machine learning and deep learning, currently focusing on deep generative models and their rich applications for controllable multimodal generation.
+- 🔭 Currently focusing on deep generative models and their rich applications for controllable multimodal generation.
 - 🙋‍♂️ Feel free to contact me for any form of collaboration or discussing ideas at: <a href="https://atfortes.github.io/">atfortes.github.io</a>
 
 
