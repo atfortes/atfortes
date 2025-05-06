@@ -6,7 +6,7 @@ I'm **Armando**, a PhD student working on deep generative models and their appli
 
 ---
 
-### 🔬 My Projects
+### 🔬 Recent Research Projects
 - **[BokehDiffusion](https://github.com/atfortes/BokehDiffusion)**  Official code for "Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models."
 
 ### 📚 Awesome Lists
