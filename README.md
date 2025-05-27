@@ -6,8 +6,10 @@ I'm **Armando**, a PhD student working on deep generative models and their appli
 
 ---
 
+<!--
 ### 🔬 Recent Research Projects
 - **[BokehDiffusion](https://github.com/atfortes/BokehDiffusion)**  Official code for "Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models."
+-->
 
 ### 📚 Awesome Lists
 - **[Awesome-Controllable-Diffusion](https://github.com/atfortes/Awesome-Controllable-Diffusion)**  Controllable generation in Diffusion: ControlNet, DreamBooth, IP-Adapter, and more.
