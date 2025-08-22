@@ -14,7 +14,7 @@ I'm **Armando**, a PhD student working on deep generative models and their appli
 - **[Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning)**  Reasoning in LLMs: Chain-of-Thought, OpenAI o1, DeepSeek-R1, and more.
 
 ### 🛠️ Implementations
-- **[generative-powers-of-ten](https://github.com/atfortes/generative-powers-of-ten)**  An implementation of "Generative Powers of Ten" using DeepFloyd IF.
+- **[Generative-Powers-of-Ten](https://github.com/atfortes/Generative-Powers-of-Ten)**  An implementation of "Generative Powers of Ten" using DeepFloyd IF.
 - **[LLMSymbolicReasoningBench](https://github.com/atfortes/LLMSymbolicReasoningBench)**  Dataset generation for symbolic and logic reasoning tasks in LLMs.
 
 ### 🏆 Competition Solutions
