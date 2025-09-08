@@ -11,7 +11,7 @@ I'm **Armando**, a PhD student working on deep generative models and their appli
 
 ### 📚 Awesome Lists
 - **[Awesome-Controllable-Diffusion](https://github.com/atfortes/Awesome-Controllable-Diffusion)**  Controllable generation in Diffusion: ControlNet, DreamBooth, IP-Adapter, and more.
-- **[Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning)**  Reasoning in LLMs: Chain-of-Thought, OpenAI o1, DeepSeek-R1, and more.
+- **[Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning)**  Reasoning in LLMs: From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1.
 
 ### 🛠️ Implementations
 - **[Generative-Powers-of-Ten](https://github.com/atfortes/Generative-Powers-of-Ten)**  An implementation of "Generative Powers of Ten" using DeepFloyd IF.
