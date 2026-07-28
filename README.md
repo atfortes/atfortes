@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Armando**, a PhD student working on deep generative models and their applications to controllable multimodal generation.
+I'm **Armando**, a PhD student working on generative intelligence and controllable multimodal generation applications.
 
 🤝 Open to collaboration & idea exchanges. Reach me at **[atfortes.github.io](https://atfortes.github.io/)**.
 
