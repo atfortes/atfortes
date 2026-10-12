@@ -7,7 +7,9 @@ I'm **Armando**, a PhD student working on generative intelligence and controllab
 ---
 
 ### 🔬 Recent Research Projects
+- **[ThinkDrag](https://github.com/atfortes/ThinkDrag)**  Official code for "ThinkDrag: Semantic Drag-Based Image Editing with Visual Reasoning."
 - **[BokehDepth](https://github.com/fogradio/BokehDepth)**  Official code for "Boosting Monocular Metric Depth Estimation via Bokeh Rendering." ICML'26
+- **[FastMesh](https://github.com/jhkim0759/FastMesh)**  Official code for "FastMesh: Efficient Artistic Mesh Generation via Component Decoupling." 3DV'26
 - **[BokehDiffusion](https://github.com/atfortes/BokehDiffusion)**  Official code for "Defocus Blur Control in Text-to-Image Diffusion Models." SIGGRAPH Asia'25
 
 ### 📚 Awesome Lists
